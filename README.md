@@ -22,7 +22,7 @@ Para facilitar la corrección, los servicios están expuestos mediante túneles:
 ### 🗄️ Acceso a Base de Datos (DBeaver/Gestores)
 Si desea conectar directamente a la base de datos para verificar las tablas:
 * **Host:** `zbklecgsnl.localto.net`
-* **Puerto:** `5466`
+* **Puerto:** `8688`
 * **Usuario:** `moto_admin`
 * **Password:** `Admin123!`
 * **Base de Datos:** `concesionario_motos`
